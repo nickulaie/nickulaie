@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nickulaie
 - 👀 I’m interested in Hubitat driver & apps
-- 🌱 I’m currently learning everithing
-- 💞️ I’m looking to collaborate on ALL
-- 📫 How to reach me email
+- 🌱 I’m currently learning about everything
+- 💞️ I’m looking to collaborate with ALL
+- 📫 How to reach me: nickulaie@gmail.com
 
 <!---
 nickulaie/nickulaie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
